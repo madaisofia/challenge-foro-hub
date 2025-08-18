@@ -1,6 +1,6 @@
 <h1 align="center"> <strong>Challenge ForoHub</strong></h1>
 <p align="center">
-  <img src="src/Badge-ForoHub.png" alt="Insignia">
+  <img src="src/main/resources/Badge-Spring.png" alt="Insignia">
 </p>
   <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green" alt="Estado del proyecto">
